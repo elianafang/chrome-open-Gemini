@@ -64,5 +64,3 @@ DOMAIN-SUFFIX,seetacloud.com,DIRECT
 ## ⭐ Star 趋势
 
 [![Star History Chart](https://api.star-history.com/image?repos=elianafang/chrome-open-Gemini&type=Date)](https://www.star-history.com/#elianafang/chrome-open-Gemini&Date)
-
-图表自动更新，可能因缓存稍有延迟。点击图表可查看完整的 Star 历史。
